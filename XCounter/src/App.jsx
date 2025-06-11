@@ -17,7 +17,7 @@ function App() {
       <div className="container">
         <h1>Counter App</h1>
         <div className="counter">
-          <div className="countTextValue" style={{textAlign: 'start'}}>
+          <div className="countTextValue" style={{textAlign: 'start', marginBottom: '30px'}}>
             <span style={{ fontSize: "larger", fontWeight: "400" }}>
               Count:{' '}
             </span>
